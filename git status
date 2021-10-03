@@ -1,0 +1,41 @@
+[33mcommit d7b36dea0cf615ffd938cc6e8644907d2a4ccdca[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: David N <davidnguyen1480@gmail.com>
+Date:   Sat Oct 2 17:22:28 2021 -0700
+
+    Completed Crawfish EtoufeeRecipe webpage
+
+[33mcommit cd2911059e661566ac5be5a281ec83af805950f2[m
+Author: David N <davidnguyen1480@gmail.com>
+Date:   Sat Oct 2 17:19:06 2021 -0700
+
+    Completed Crawfish Etoufee Ingredients list
+
+[33mcommit 227252c991644f0a9c2af582c38bdb2173560abc[m
+Author: David N <davidnguyen1480@gmail.com>
+Date:   Sat Oct 2 17:12:51 2021 -0700
+
+    Started ingredients list for Crawfish Etoufee Recipe and included description and link to original recipe
+
+[33mcommit ef0c3570654857eb0d88664666858151d64473dc[m
+Author: David N <davidnguyen1480@gmail.com>
+Date:   Sat Oct 2 16:50:07 2021 -0700
+
+    Added link to Crawfish Etoufee Recpie on homepage
+
+[33mcommit ccda9d4c33237178b8c834ffed5edadc0633965d[m
+Author: David N <davidnguyen1480@gmail.com>
+Date:   Sat Oct 2 16:43:13 2021 -0700
+
+    Created Crawfish Etoufee recipe page boilerplate and heading
+
+[33mcommit d36218dcb3b83256ae0df1110ec3d4f62d71a977[m
+Author: David N <davidnguyen1480@gmail.com>
+Date:   Sat Oct 2 16:27:51 2021 -0700
+
+    Created boilerplate html and added heading
+
+[33mcommit 04cfb77d0fb7a630cce65f0e316f7f8b15253f62[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: David N <65258234+DaVeedRock@users.noreply.github.com>
+Date:   Sat Oct 2 16:12:21 2021 -0700
+
+    Initial commit
